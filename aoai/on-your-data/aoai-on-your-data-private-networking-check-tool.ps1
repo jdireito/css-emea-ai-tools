@@ -6,6 +6,8 @@
 #                                                                #
 #    Contributors:                                               #
 #            Ahmad Amireh (v-aamireh)                            #  
+#            Marwan Fakhouri (v-mfakhouri)                       #
+#            Mohammad AlTaweel (v-maltaweel)                     #
 #            Hasan Mohammad (hamohamm)                           #
 #            José Direito (josedireito)                          #
 # Created: 21/02/2024                                            #
